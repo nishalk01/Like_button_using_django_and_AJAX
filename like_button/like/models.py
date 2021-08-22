@@ -3,8 +3,8 @@ from django.contrib.auth.models import User
 
 class LikeButton(models.Model):
     content=models.TextField(null=True)
-    likes=models.ManyToManyField(User,blank=True, related_name='likes')
-     
+    likes=models.IntegerField(default=0)
+
     @property
     def total_likes(self):
-        return self.likes.count() 
+        return self.likes
