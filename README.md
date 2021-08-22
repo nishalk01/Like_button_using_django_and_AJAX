@@ -6,7 +6,7 @@ while usig Django Framework.
 ### :link: [Article link](https://medium.com/@nishalk25121999/how-to-make-a-like-button-using-django-ajax-d2db38e6d2f8)
 
 
-### :arrow-right: [Reference](https://stackoverflow.com/questions/14007453/my-own-like-button-django-ajax-how)
+### :arrow_right: [Reference](https://stackoverflow.com/questions/14007453/my-own-like-button-django-ajax-how)
 
 ### :wrench: Setup
 
